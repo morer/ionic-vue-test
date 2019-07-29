@@ -1,4 +1,5 @@
-# ionic-vue-test, a demo to demostrate how to setup ionic vue, for more information, please visit [ionic](http://ionicframework.com)
+# ionic-vue-test
+A demo to demostrate how to setup ionic vue, for more information, please visit [ionic](http://ionicframework.com)
 
 ## Project setup
 ```
